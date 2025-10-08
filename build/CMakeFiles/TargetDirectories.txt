@@ -1,0 +1,3 @@
+/opt/hpcg/build/CMakeFiles/xhpcg.dir
+/opt/hpcg/build/CMakeFiles/edit_cache.dir
+/opt/hpcg/build/CMakeFiles/rebuild_cache.dir
